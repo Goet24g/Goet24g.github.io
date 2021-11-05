@@ -22,7 +22,7 @@ section#banner{
 
 section#box{
     width: 1000px;
-    height:px;
+    height:40px;
     float: left;
     background-color: /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#cfe7fa+0,74d5e0+100 */
 background: rgb(207,231,250); /* Old browsers */
@@ -51,12 +51,13 @@ menu ul{
 
 .menu > li > a{
     display: block;
-    padding: 8px 8px;
-    margin:0px auto;
+    padding:10px 8px;
+    margin:0px  10px;
     color: #353535;
     font: bold 16px Verdana;
     text-decoration: none;
     text-align: center;
+    text-transform: uppercase;
 
 
 }
